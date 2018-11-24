@@ -5,6 +5,6 @@
 * Wilcox , declude the composition data effect 
 ## Part 2: Association analysis
 * Spearman
-* Patital Spearman
+* Partital Spearman
 * GEE 
 * Spare GEE
