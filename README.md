@@ -1,6 +1,12 @@
 # MetaAnalysisP
 **Metagenomics' downstream analysis**
 ## Part 1: Compare analysis
-* Wilcox
+* Wilcox 
+* Wilcox , declude the composition data effect 
 ## Part 2: Association analysis
-* GEE
+* Spearman
+* Partital Spearman
+* GEE 
+* Spare GEE
+## Part 3: Machine learning
+* Xgboost
