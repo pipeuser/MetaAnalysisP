@@ -8,3 +8,5 @@
 * Partital Spearman
 * GEE 
 * Spare GEE
+## Part 3: Machine learning
+* Xgboost
