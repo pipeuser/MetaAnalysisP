@@ -10,6 +10,8 @@
 * Partital Spearman
 * GEE 
 * Spare GEE
+* Permanova/Permanova-S
+  >PERMANOVA-S: association test for microbial community composition that accommodates confounders and multiple distances
 ## Part 3: Machine learning
 * [Xgboost](./script/xgboost)
 ## Part 4: Visualization
